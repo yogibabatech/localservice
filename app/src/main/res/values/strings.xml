@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Local Service</string>
+    <string name="t_c"> [Your App Name] facilitates connections between users and local service providers, but users should exercise caution. Be vigilant against fraudulent activities like phishing and misrepresentation by unauthorized parties posing as service providers. [Your Company Name] does not endorse all listed providers and encourages users to verify credentials and reviews. Mistakes, scheduling errors, or service quality issues may occur between parties; users are responsible for confirming service details directly. Use [Your App Name] at your own risk; [Your Company Name] assumes no liability for disputes or losses arising from interactions. Review our terms and contact us at [Contact Email] for assistance or to report suspicious activity.</string>
+</resources>
